@@ -50,33 +50,28 @@ const developer = {
 
 ---
 
-## GitHub Stats
+## GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engrnahiankhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=engrnahiankhan&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engrnahiankhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=engrnahiankhan&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=8B949E&sideNums=C9D1D9" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrnahiankhan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engrnahiankhan&theme=github_dark" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=engrnahiankhan&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&area_color=58A6FF" />
 </div>
 
 ---
 
-## Featured Projects
-
-### E-Commerce Dashboard
-Admin panel with real-time analytics and inventory management  
-**Stack:** Next.js, TypeScript, Redux Toolkit, Tailwind CSS
-
-### Chrome Productivity Extension
-Browser extension for task management and workflow optimization  
-**Stack:** React.js, Chrome APIs, Local Storage
-
-### Corporate Landing Pages
-SEO-optimized landing pages with modern animations  
-**Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion
-
----
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=engrnahiankhan&color=58A6FF&style=flat-square)
+### Total Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=engrnahiankhan&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
