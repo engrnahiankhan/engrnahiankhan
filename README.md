@@ -53,11 +53,12 @@ const developer = {
 ## GitHub Statistics
 
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=engrnahiankhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrnahiankhan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrnahiankhan&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engrnahiankhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=engrnahiankhan&theme=github_dark" />
 </div>
 
