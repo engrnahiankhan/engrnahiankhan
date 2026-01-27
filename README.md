@@ -26,7 +26,7 @@ const developer = {
   skills: {
     frontend: ["React.js", "Next.js", "TypeScript", "Redux Toolkit"],
     styling: ["Tailwind CSS", "Material UI", "ShadCN"],
-    backend: ["Node.js", "Express.js", "MongoDB"],
+    backend: ["Node.js", "Express.js", "MongoDB", "Prisma", "JWT"],
     tools: ["Git", "Docker", "Jira"]
   }
 };
@@ -42,7 +42,10 @@ const developer = {
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
@@ -50,28 +53,9 @@ const developer = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engrnahiankhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engrnahiankhan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=engrnahiankhan&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9&sideNums=C9D1D9" alt="GitHub Streak" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engrnahiankhan&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
----
-
-## Experience
-
-**Frontend Developer** @ Bdcalling IT Ltd  
-*Sept 2025 – Present*
-- Building responsive applications with Next.js and TypeScript
-- Managing state with Redux Toolkit (RTK Query)
-- Collaborating on RESTful API integration
-
-**Frontend Developer** @ Protech Innovations Ltd  
-*June 2024 – July 2025*
-- Developed dashboards and Chrome Extension using React.js
-- Maintained scalable code with TypeScript
-- Dockerized applications for consistent environments
 
 ---
 
@@ -90,12 +74,6 @@ SEO-optimized landing pages with modern animations
 **Stack:** Next.js, TypeScript, Tailwind CSS, Framer Motion
 
 ---
-
-## Connect
-
-**Email:** engrnahiankhan@gmail.com  
-**LinkedIn:** [linkedin.com/in/engrnahiankhan](https://linkedin.com/in/engrnahiankhan)  
-**Location:** Dhaka, Bangladesh
 
 <div align="center">
 
