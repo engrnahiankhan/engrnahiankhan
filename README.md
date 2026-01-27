@@ -54,7 +54,7 @@ const developer = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=engrnahiankhan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=engrnahiankhan&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=engrnahiankhan&theme=github_dark" />
 </div>
 
 <div align="center">
