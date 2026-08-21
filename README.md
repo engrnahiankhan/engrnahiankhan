@@ -60,17 +60,11 @@ I'm a Frontend Developer with **1.5+ years of professional experience** crafting
 
 <br>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Overview
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=engrnahiankhan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="Nahian's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engrnahiankhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=engrnahiankhan&theme=tokyonight&hide_border=true&area=true" alt="Contribution Activity Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=engrnahiankhan&theme=github-dark-blue&hide_border=true" width="48%" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engrnahiankhan&theme=github_dark" width="48%" alt="Profile Details" />
 </div>
 
 <br>
